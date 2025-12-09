@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jignesh119
 - 👀 I’m interested in Web dev, tui, js, ricing
-- 🌱 I’m currently learning mern stack, lua
+- 🌱 I’m currently learning lua, go
 - 💞️ I’m looking to collaborate on js, ts, lua...
 
 <!---
