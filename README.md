@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jignesh119
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on mern, javascript
+- 👀 I’m interested in Web dev, tui, js, ricing
+- 🌱 I’m currently learning mern stack, lua
+- 💞️ I’m looking to collaborate on js, ts, lua...
 
 <!---
 jignesh119/jignesh119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
